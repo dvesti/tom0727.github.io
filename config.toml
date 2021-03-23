@@ -1,5 +1,5 @@
 newContentEditor = ""
-baseURL = "https://tom0727.github.io"
+baseURL = "https://dvesti.github.io/tom0727.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "tom0727's blog"
